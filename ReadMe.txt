@@ -27,16 +27,14 @@ Best viewed in Safari 4 and standards compliant browsers; also works in recent F
 ===========================================================================
 PACKAGING LIST:
 
-This Project contains 2 product: a Safari web application, and an iPhone web application.
+This Project contains 2 products: a Safari web application and an iPhone web application.
 
 ===========================================================================
 CHANGES FROM PREVIOUS VERSIONS:
 
-Version 1.0.1
-- Extracted the ReadMe out of the .dcproj bundle
+-Extracted the ReadMe out of the .dcproj bundle
+-Updated data source URL.
 
-Version 1.0
-- First version.
 
 ===========================================================================
-Copyright (C) 2009 Apple Inc. All rights reserved.
+Copyright (C) 2009-2010 Apple Inc. All rights reserved.

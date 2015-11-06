@@ -177,16 +177,16 @@
 	<integer>40</integer>
 	<key>FeedModels</key>
 	<dict>
-		<key>1D55E9B2-7AAB-4349-9E5A-F3AED12A894A</key>
+		<key>B709F33E-2D3F-4533-8DC5-5C45EE08CBBC</key>
 		<dict>
 			<key>sample</key>
 			<dict>
 				<key>date</key>
-				<date>2009-05-29T01:54:55Z</date>
+				<date>2010-03-18T21:05:23Z</date>
 				<key>encoding</key>
 				<integer>10</integer>
 				<key>fileName</key>
-				<string>1D55E9B2-7AAB-4349-9E5A-F3AED12A894A</string>
+				<string>B709F33E-2D3F-4533-8DC5-5C45EE08CBBC</string>
 			</dict>
 		</dict>
 	</dict>

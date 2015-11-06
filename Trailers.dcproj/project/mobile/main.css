@@ -170,7 +170,7 @@ body {
     font-family: Helvetica;
     font-weight: bold;
     color: rgb(255, 255, 255);
-    text-shadow: rgba(0, 0, 0, 0.484375) 0px -1px 0px;
+    text-shadow: rgba(0, 0, 0, 0.464844) 0px -1px 0px;
     font-size: 16pt;
     border-left-width: 1px;
     border-right-width: 1px;
@@ -184,7 +184,7 @@ body {
     font-weight: bold;
     font-size: 12px;
     color: rgb(255, 255, 255);
-    text-shadow: rgba(0, 0, 0, 0.484375) 0px -1px 0px;
+    text-shadow: rgba(0, 0, 0, 0.464844) 0px -1px 0px;
     text-align: center;
     text-overflow: ellipsis;
     white-space: nowrap;
@@ -247,7 +247,6 @@ body {
     color: black;
     font-family: Helvetica;
     font-size: 17px;
-    text-overflow: ellipsis;
     overflow: hidden;
     -webkit-margin-top-collapse: separate;
     -webkit-margin-bottom-collapse: separate;
@@ -259,6 +258,7 @@ body {
     right: 8px;
     width: auto;
     height: auto;
+    text-overflow: ellipsis;
 }
 
 .selected #detailTitle {
@@ -322,9 +322,9 @@ body {
     font-size: 14px;
     color: rgb(83, 83, 83);
     height: 16px;
-    top: 42px;
     right: 8px;
     width: auto;
+    top: 72px;
 }
 
 .selected #detailDirector {
@@ -345,9 +345,9 @@ body {
     height: 20px;
     font-weight: bold;
     font-size: 10pt;
-    top: 65px;
     right: 8px;
     width: auto;
+    top: 100px;
 }
 
 .selected #detailRating {
@@ -360,7 +360,7 @@ body {
     font-size: 12px;
     color: rgb(255, 255, 255);
     text-align: center;
-    text-shadow: rgba(0, 0, 0, 0.566406) 0px -1px 0px;
+    text-shadow: rgba(0, 0, 0, 0.546875) 0px -1px 0px;
     text-overflow: ellipsis;
     white-space: nowrap;
     -webkit-dashboard-region: dashboard-region(control rectangle);

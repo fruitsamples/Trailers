@@ -5,5 +5,6 @@
  code generator otherwise the changes will be lost.
  */
 var dashcodeDataSources = {
-    "dataSource": { "Class": "DC.AjaxController", "propertyValues": { "url": "http://www.apple.com/trailers/home/xml/current.xml", "dataModel": { "cacheSample": true, "uuid": "1D55E9B2-7AAB-4349-9E5A-F3AED12A894A", "url": null, "dataType": "xml", "version": 1, "root": "", "model": { "$date": "", "movieinfo": [{ "$id": 1, "info": { "title": "", "runtime": "", "rating": "", "studio": "", "postdate": "", "releasedate": "", "copyright": "", "director": "", "description": "" }, "cast": { "name": [""] }, "genre": { "name": "" }, "poster": { "location": "", "xlarge": "" }, "preview": { "large": { "$filesize": 1, "#content": "" } } }] } }, "parameters": {} } }
+    "dataSource": { "Class": "DC.AjaxController", "propertyValues": { "url": "http://trailers.apple.com/trailers/home/xml/current.xml", "dataModel": { "cacheSample": true, "uuid": "B709F33E-2D3F-4533-8DC5-5C45EE08CBBC", "url": null, "dataType": "xml", "version": 1, "root": "", "model": { "$date": "", "movieinfo": [{ "$id": 1, "info": { "title": "", "runtime": "", "rating": "", "studio": "", "postdate": "", "releasedate": "", "copyright": "", "director": "", "description": "" }, "cast": { "name": [""] }, "genre": { "name": [""] }, "poster": { "location": "", "xlarge": "" }, "preview": { "large": { "$filesize": 1, "#content": "" } } }] } }, "parameters": {} } }
 };
+
